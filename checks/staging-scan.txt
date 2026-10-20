@@ -1,13 +1,13 @@
-Women's Health Evidence Workbench — bounded staging scan
-Scan date: 2026-10-20 UTC
-Scope: every non-.git file under the staging root; filenames and findings recorded relative to `.` only.
+Women's Health Evidence Workbench — bounded staging audit (historical)
+Audit date: 2026-10-20 UTC
+Scope: every non-.git file under the local staging root at audit time; filenames and findings recorded relative to `.` only. This is a dated prepublication audit, not a current GitHub-state claim.
 
 File-boundary checks
-- Intended starter files: PASS. The only non-.git files are the allowlisted Markdown/text files and `.gitignore`.
+- Intended starter files: PASS at audit time. The only non-.git files were the allowlisted Markdown/text files and `.gitignore`.
 - Forbidden binary/data extensions (PDF, Office, image, archive, database, key/certificate): PASS — 0 found.
 - Non-text file inspection: PASS — no unexpected binary artifact found.
-- Remote configuration: PASS — no Git remote configured.
-- Commit/push state: PASS — local repository initialized on `main`; no commit or push performed.
+- Remote configuration: PASS at audit time — no Git remote was configured in the local staging checkout.
+- Commit/push state: PASS at audit time — local repository was initialized on `main`; no commit or push had been performed from that checkout.
 
 Privacy and secret checks
 - Absolute local paths, home-directory paths, and file URIs: PASS — 0 matches in content.

@@ -39,4 +39,4 @@ Review the complete text and filenames for:
 
 ## Explicit limits
 
-These checks cannot prove that a secret, private fact, copyrighted passage, or personal identifier is absent from every possible encoding or derivative. They do not verify external licenses, the scientific truth of a claim, the identity or expertise of a contributor, or the safety of a clinical decision. Human review is required before any public release.
+These checks cannot prove that a secret, private fact, copyrighted passage, or personal identifier is absent from every possible encoding or derivative. They do not verify external licenses, the scientific truth of a claim, the identity or expertise of a contributor, or the safety of a clinical decision. Human review is needed for strong health-related claims; it is not a prerequisite for this clearly labelled invitation and methods starter.
