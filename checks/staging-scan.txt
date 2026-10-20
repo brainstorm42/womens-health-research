@@ -1,0 +1,26 @@
+Women's Health Evidence Workbench — bounded staging scan
+Scan date: 2026-10-20 UTC
+Scope: every non-.git file under the staging root; filenames and findings recorded relative to `.` only.
+
+File-boundary checks
+- Intended starter files: PASS. The only non-.git files are the allowlisted Markdown/text files and `.gitignore`.
+- Forbidden binary/data extensions (PDF, Office, image, archive, database, key/certificate): PASS — 0 found.
+- Non-text file inspection: PASS — no unexpected binary artifact found.
+- Remote configuration: PASS — no Git remote configured.
+- Commit/push state: PASS — local repository initialized on `main`; no commit or push performed.
+
+Privacy and secret checks
+- Absolute local paths, home-directory paths, and file URIs: PASS — 0 matches in content.
+- Email-address pattern: PASS — 0 matches.
+- Credential/secret pattern scan: PASS — 0 candidate values outside policy prose.
+- Private conversation, patient/donor data, and raw-record artifact check: PASS — 0 private artifacts; exclusion language is policy text only.
+
+Copyright and source-boundary checks
+- Source PDFs, figures, tables, full third-party reports, and unlicensed code: PASS — none included.
+- Bibliographic identifiers: PASS — 10 DOI occurrences and 4 PMID records are linked in the source register; metadata was retained instead of source files.
+- Rights language: PASS — the README and provenance notes state that third-party rights remain with their owners and that the project license is pending.
+
+Human-readable review notes
+- The policy document names classes of paths, credentials, and private material to reject; those words are not evidence that such material is present.
+- External links were checked for clear labels and stable DOI/PMID or official-page targets during preparation. Live availability and future licensing can change.
+- This scan cannot prove that every possible secret, identifier, copyrighted passage, scientific error, or unsafe interpretation is absent. It does not replace human expert review, a legal rights review, or a final release review.
