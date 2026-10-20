@@ -2,7 +2,7 @@
 
 A small, public-facing research workspace for careful, inspectable evidence work on under-characterized women's health questions.
 
-**Status:** local GitHub-ready staging. Useful work has started, qualified review is invited, and the first public materials are intentionally modest. No remote, push, or publication has been performed from this staging directory. The repository license is pending a user decision.
+**Status:** public early-stage project. Useful work has started, human expert review is invited, and the first materials are intentionally modest. The repository license is pending a maintainer choice.
 
 ## Start here
 
@@ -10,7 +10,7 @@ A small, public-facing research workspace for careful, inspectable evidence work
 - [Missing-sources register](docs/missing-sources.md) records bibliographic metadata, lawful-access attempts, what each source is needed for, and the current status.
 - [Provenance and scope](docs/provenance-and-scope.md) explains what is and is not included.
 - [Status labels](docs/status-taxonomy.md) separate proposals, reviewed static findings, and provisional numerical results.
-- [Release checklist](docs/release-checklist.md) is the gate for any later remote or public release.
+- [Release checklist](docs/release-checklist.md) records checks for future changes and added results.
 
 ## What this project is for
 
