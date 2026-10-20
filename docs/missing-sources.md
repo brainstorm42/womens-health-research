@@ -11,7 +11,7 @@ The source-paper inventory was checked before this register was written. The fol
 
 | Item | Local inventory result | Boundary |
 | --- | --- | --- |
-| Dietrich (2011), *The Human Female Prostate: Immunohistochemical Study with Prostate-Specific Antigen and Prostate-Specific Acid Phosphatase*; DOI `10.1111/j.1743-6109.2011.02408.x` | Present | Presence of a local PDF does not clear redistribution or figure reuse. |
+| Dietrich (2011), *The human female prostate—immunohistochemical study with prostate-specific antigen, prostate-specific alkaline phosphatase, and androgen receptor and 3-D remodeling*; DOI `10.1111/j.1743-6109.2011.02408.x` | Present | Presence of a local PDF does not clear redistribution or figure reuse. |
 | Tomalty et al. (2023), *The prostate in women: an updated histological and immunohistochemical profile of the female periurethral glands and their relationship to an implanted midurethral sling*; DOI `10.1093/jsxmed/qdac046` | Present | Treat as a source to review under its own rights and access terms. |
 | Wimpissinger et al. (2009), *Magnetic resonance imaging of female prostate pathology*; DOI `10.1111/j.1743-6109.2009.01287.x` | Present | Full-text presence is not permission to redistribute or reuse images. |
 | Haller et al. (2024), *Skene's glands and urethral diverticula: comparative insights from an anatomical and histological study*; BJU International 134(S2):4–5; DOI `10.1111/bju.16413` | Present | A short BJU comment/context piece; it is not the requested JSM primary study. |

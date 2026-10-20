@@ -37,7 +37,7 @@ An access route is not a reuse license. Public readability is not permission to 
 
 ## Evidence and review boundary
 
-AI tools can help locate records, compare structured claims, and catch inconsistencies. Those checks must be labelled as AI-assisted and must not be described as human expert review. Health-related claims still need qualified human review before strong public interpretation. A reviewer may confirm a source-level statement without confirming a broader biological or clinical conclusion.
+AI tools can help locate records, compare structured claims, and catch inconsistencies. Those checks must be labelled as AI-assisted and must not be described as human expert review. Health-related claims still need qualified human review before strong public interpretation; that review is not a prerequisite for publishing this clearly labelled invitation and methods starter. A reviewer may confirm a source-level statement without confirming a broader biological or clinical conclusion.
 
 The current data boundary is public or synthetic data only. Any future analysis should state the dataset version, transformations, exclusions, missingness, uncertainty, and independent reproduction status. A provisional numerical result is not a clinical result.
 
@@ -51,4 +51,4 @@ Only the bounded files listed in [the allowlist](../checks/allowlist.md) belong 
 
 ## Maintenance
 
-Before a remote or public release, run the [release checklist](release-checklist.md), read the generated scan evidence, and confirm the license choice. If a source becomes available later, update the missing-sources register with the access route and rights status rather than silently replacing an earlier uncertainty note.
+For future changes or added results, run the [release checklist](release-checklist.md), read the generated scan evidence, and confirm the license choice. If a source becomes available later, update the missing-sources register with the access route and rights status rather than silently replacing an earlier uncertainty note.

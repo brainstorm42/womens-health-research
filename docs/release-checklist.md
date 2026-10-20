@@ -1,6 +1,6 @@
 # Release checklist
 
-Use this checklist before creating a remote, pushing, or publishing. A local file existing is not evidence that it is ready for public release.
+Use this checklist for future changes or added results. The current public starter is an invitation and methods bundle, not a clinical evidence claim.
 
 ## Scope and audience
 
@@ -30,7 +30,7 @@ Use this checklist before creating a remote, pushing, or publishing. A local fil
 - [ ] Abstract-only, full-text, and reproduced-computation evidence are not conflated.
 - [ ] Denominators, missingness, sampling, and uncertainty are stated where relevant.
 - [ ] “Not found,” “not extracted,” “not verified,” and “not established” are used precisely.
-- [ ] A qualified human review plan exists for health-related claims.
+- [ ] Strong health-related claims have qualified human review or remain clearly held back; this review is not a prerequisite for the invitation starter.
 
 ## Accessibility and maintainability
 
